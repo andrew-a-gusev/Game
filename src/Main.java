@@ -1,4 +1,7 @@
 
+/**
+ * Обычно, класс с методом main делают public, не делают abstract и наследование от Unit не понятно зачем
+ */
 abstract class Main extends Unit{
 
     public static void main(String[] args){
